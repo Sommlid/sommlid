@@ -1,21 +1,25 @@
 ---
 title: Home
-description: "The personal writings and expressions of Grayfox, otherwise known as you too and everyone else. It is a loving and silly place."
+description: "The landing page for my music blog."
 ---
 <img
-  id="foxy"
-  src="/images/grayf0x.jpg"
-  alt="A foxy face">
+  id="o6"
+  src="/images/o6.jpg"
+  alt="o6">
 
-## Welcome, friend
+<figure>
+  <img src="/images/o6.jpg}}" alt="o6">
+  <figcaption>The cover of 011668's beautiful o6.</figcaption>
+</figure>
 
-### :purple_heart: :earth_africa: :purple_heart:
+## Sommlid (he/him)
 
-Born in [The Abyss](https://en.wikipedia.org/wiki/Edmonton), **Grayfox** - also known as Zerkle Snorp - has spent over two decades fiddling with things on the Internet. Today he does nothing, so stop asking.
+Hi! I go by Sommlid online. I am an electronic music fanatic, and have been involved with the scene in many different capacities since 2014. Welcome to my personal homepage.
 
-Their greatest joys are darkness and its quietudes.
-
-<img src="/images/partywizard.gif">
+Social links:
+- [Last.fm](https://www.last.fm/user/sommlid "last.fm")
+- [Soundcloud](https://soundcloud.com/sommlid "Soundcloud")
+- [Rateyourmusic](https://rateyourmusic.com/~Fjuture "Rateyourmusic")
 
 ---
 
