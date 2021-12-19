@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sommlid</title>
-    <link>https://sommlid.github.io/tags/</link>
+    <link>https://examplesite.com/tags/</link>
     <description>Recent content in Tags on Sommlid</description>
     <image>
-      <url>https://sommlid.github.io/papermod-cover.png</url>
-      <link>https://sommlid.github.io/papermod-cover.png</link>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://sommlid.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
