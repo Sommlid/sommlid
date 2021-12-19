@@ -6,7 +6,7 @@ description: "The landing page for my music blog."
 ## Sommlid (he/him)
 
 <figure>
-  <img src="/images/o6.jpg" alt="o6" align="top" width="500" height="500">
+  <img src="/images/o6.jpg" alt="o6" float="right">
   <figcaption>The cover of 011668's beautiful o6.</figcaption>
 </figure>
 
