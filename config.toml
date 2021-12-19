@@ -4,7 +4,7 @@ footnotereturnlinkcontents = "↩"
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 languageCode = "en-us"
-title = "Sommlid"
+title = "sommlid.rocks"
 
 [markup.goldmark.renderer]
 unsafe = true
