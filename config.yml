@@ -1,7 +1,7 @@
 baseURL: "https://sommlid.github.io/"
-title: PaperMod
+title: Sommlid
 paginate: 5
-theme: hugo-PaperMod
+theme:  PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
