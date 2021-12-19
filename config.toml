@@ -23,15 +23,15 @@ style = "monokai"
 tabWidth = 4
 
 [permalinks]
-post = "/post/:year/:month/:day/:slug/"
+posts = "/posts/:year/:month/:day/:slug/"
 
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 1
 [[menu.main]]
 name = "Categories"
 url = "/categories/"
-weight = 1
-[[menu.main]]
-name = "Tags"
-url = "/tags/"
 weight = 2
 [[menu.feed]]
 name = "Subscribe"
