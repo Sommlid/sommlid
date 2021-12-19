@@ -12,4 +12,4 @@ Below is a list of invasive technologies you will **not** find on this website.
 - Analytics
 - Third-party advertising
 
-sommlid.rocks is a [static website](https://en.wikipedia.org/wiki/Static_web_page "static website") built with [Hugo](https://en.wikipedia.org/wiki/Hugo_(software) "Hugo") using the  and hosted via [Github Pages](https://en.wikipedia.org/wiki/GitHub#GitHub_Pages "Github Pages"). You may view the complete source code [here](https://github.com/Sommlid/sommlid.github.io "here").
+sommlid.rocks is a [static website](https://en.wikipedia.org/wiki/Static_web_page "static website") built with [Hugo](https://en.wikipedia.org/wiki/Hugo_(software) "Hugo") using the [hugo-classic](https://github.com/goodroot/hugo-classic "hugo-classic") theme and hosted via [Github Pages](https://en.wikipedia.org/wiki/GitHub#GitHub_Pages "Github Pages"). You may view the complete source code [here](https://github.com/Sommlid/sommlid.github.io "here"). If you find any ethically unsound behavior on this website, please don't hesitate to let me know at [mail@sommlid.rocks](mailto:mail@sommlid.rocks "mail@sommlid.rocks").
