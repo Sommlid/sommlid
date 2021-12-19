@@ -39,5 +39,5 @@ url = "/index.xml"
 
 [params]
 custom_css = ["css/theme-override.css"]
-description = "A simple, minimal blog for those who love text."
-footer = "Open-Source | [Github](https://github.com/goodroot/hugo-classic) | [Keybase](https://keybase.io/goodroot)"
+description = "Sommlid's music blog."
+footer = "[Privacy Policy](https://sommlid.rocks/privacy/) | [mail@sommlid.rocks](mailto:mail@sommlid.rocks)"
