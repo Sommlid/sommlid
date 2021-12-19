@@ -2,12 +2,13 @@
 title: Home
 description: "The landing page for my music blog."
 ---
-<figure>
-  <img src="/images/o6.jpg"}} alt="o6">
-  <figcaption>The cover of 011668's beautiful o6.</figcaption>
-</figure>
 
 ## Sommlid (he/him)
+
+<figure>
+  <img src="/images/o6.jpg" alt="o6" align="top">
+  <figcaption>The cover of 011668's beautiful o6.</figcaption>
+</figure>
 
 Hi! I go by Sommlid online. I am an electronic music fanatic, and have been involved with the scene in many different capacities since 2014. Welcome to my personal homepage.
 
