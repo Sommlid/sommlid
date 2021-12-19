@@ -4,7 +4,7 @@ title: Privacy Policy
 
 ## Privacy Policy
 
-In my opinion, every person deserves the right to privacy. To reflect that, [this website](https://sommlid.rocks/ "this website") does not track, gather information about, or profile its users in any way. Feel free to browse this website without limits; your activity will be completely unmonitored. However, this website contains links to external websites and streaming services with their own privacy policies. I cannot accept responsibility for the privacy policies of external websites, so be advised to click links to third-party websites at your own discretion.
+In my opinion, every person deserves the right to privacy. To reflect that, [this website](https://sommlid.rocks/ "this website") does not track, gather information about, or profile its users in any way. Feel free to browse this website without limits; your activity will be completely unmonitored. However, this website does contain links to external websites and streaming services with their own privacy policies. I cannot accept responsibility for the privacy policies of external websites, so be advised to click links to third-party websites at your own discretion.
 
 Below is a list of invasive technologies you will **not** find on this website.
 - Tracking cookies
