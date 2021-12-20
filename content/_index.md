@@ -4,7 +4,7 @@ description: "The landing page for my music blog."
 ---
 <img
   id="foxy"
-  src="/images/grayf0x.jpg"
+  src="/images/o6.jpg"
   alt="A foxy face">
 
 ## Welcome, friend
