@@ -161,7 +161,7 @@ pre {
 pre code { background: none; }
 
 /* Images, tables, misc. */
-img, iframe, video {
+img, iframe, video, figure, figcaption {
   max-width: 100%;
   height: auto;
   display: block;
