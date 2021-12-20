@@ -4,17 +4,17 @@ description: "Sommlid's personal homepage."
 ---
 <figure id="o6">
   <img src="/images/o6.jpg" alt="o6">
-  <figcaption>The cover of 011668's beautiful album, "o6".</figcaption>
+  <figcaption>The cover of 011668's beautiful album, ["o6"](https://011668.bandcamp.com/album/o6).</figcaption>
 </figure>
   
 ## Sommlid (he/him)
   
-Hi! I am Sommlid and I am an electronic music enthusiast from Manhattan, New York. This blog is my creative outlet.
+Hi, thanks for visiting! I am an electronic music enthusiast from Manhattan, New York. This site is my creative outlet.
 
-Content on this blog will include:
-- Album/EP reviews
-- Discussion about the electronic music scene
-- Music archivism and hoarding
+Contents of blog posts will include some or all of the following:
+- Opinions about music from a non-technical listener's perspective
+- Discussion about archivism and hoarding of digital music
+- Subjective commentary on the electronic music scene
 - Other topics I haven't decided on yet :)
 
 You can find a more comprehensive bio [here](https://sommlid.rocks/about/).
