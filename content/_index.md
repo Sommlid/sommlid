@@ -2,8 +2,8 @@
 title: Home
 description: "Sommlid's personal homepage."
 ---
-<figure>
-  <img id="o6" src="/images/o6.jpg" alt="o6">
+<figure id="o6">
+  <img src="/images/o6.jpg" alt="o6">
   <figcaption>The cover of 011668's beautiful o6.</figcaption>
 </figure>
   
