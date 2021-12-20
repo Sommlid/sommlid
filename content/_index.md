@@ -3,18 +3,18 @@ title: Home
 description: "Sommlid's personal homepage."
 ---
 <figure id="o6">
-  <img src="/images/o6.jpg" alt="o6">
+  <img src="/images/o6.jpg" alt="o6" width="200" height="200">
   <figcaption>The cover of 011668's beautiful album, <a href="https://011668.bandcamp.com/album/o6">"o6"</a></figcaption>
 </figure>
   
 ## Sommlid (he/him)
   
 Hi, thanks for visiting! I am an electronic music enthusiast from Manhattan, New York. This site is my creative outlet.
-[o6](https://011668.bandcamp.com/album/o6)
+
 Contents of blog posts will include some or all of the following:
 - Opinions about music from a non-technical listener's perspective
 - Discussion about archivism and hoarding of digital music
-- Subjective commentary on the electronic music scene
+- Commentary on the electronic music scene at large
 - Other topics I haven't decided on yet :)
 
 You can find a more comprehensive bio [here](https://sommlid.rocks/about/).
