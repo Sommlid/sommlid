@@ -9,7 +9,9 @@ description: "Sommlid's personal homepage."
   
 ## Sommlid (he/him)
   
-Hi! I go by Sommlid online. I am an electronic music fanatic, and have been involved with the scene in many different capacities since 2014. Welcome to my personal homepage.
+Hi! I am Sommlid. By day I am an engineering student in the city of Boston, Massachusetts. In my free time my hobbies include listening to electronic music, data hoarding, bicycling, and generally learning new skills, hence the creation of this website. Welcome to my personal homepage; I hope you enjoy your stay!
+
+You can find a more comprehensive bio [here](https://sommlid.rocks/about/).
 
 Social links:
 - [Last.fm](https://www.last.fm/user/sommlid "Last.fm")
