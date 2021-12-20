@@ -3,19 +3,16 @@ title: Home
 description: "The landing page for my music blog."
 ---
 <img
-  id="o6"
-  src="/images/o6.jpg"
-  alt="The cover art of the beautiful 'o6' by 011668.">
-  
-## Sommlid (he/him)
-  
-Hi! I go by Sommlid online. I am an electronic music fanatic, and have been involved with the scene in many different capacities since 2014. Welcome to my personal homepage.
+  id="foxy"
+  src="/images/grayf0x.jpg"
+  alt="A foxy face">
 
-Social links:
-- [Last.fm](https://www.last.fm/user/sommlid "last.fm")
-- [Soundcloud](https://soundcloud.com/sommlid "Soundcloud")
-- [Rateyourmusic](https://rateyourmusic.com/~Fjuture "Rateyourmusic")
+## Welcome, friend
 
----
+### :purple_heart: :earth_africa: :purple_heart:
 
-## Musings
+Born in [The Abyss](https://en.wikipedia.org/wiki/Edmonton), **Grayfox** - also known as Zerkle Snorp - has spent over two decades fiddling with things on the Internet. Today he does nothing, so stop asking.
+
+Their greatest joys are darkness and its quietudes.
+
+<img src="/images/partywizard.gif">
