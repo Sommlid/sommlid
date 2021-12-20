@@ -9,7 +9,13 @@ description: "Sommlid's personal homepage."
   
 ## Sommlid (he/him)
   
-Hi! I am Sommlid. By day I am an engineering student in the city of Boston, Massachusetts. In my free time my hobbies include listening to electronic music, data hoarding, bicycling, and generally learning new skills, hence the creation of this website. Welcome to my personal homepage; I hope you enjoy your stay!
+Hi! I am Sommlid and I am an electronic music enthusiast from Manhattan, New York. This blog is my creative outlet.
+
+Content on this blog will include:
+- Album/EP reviews
+- Discussion about the electronic music scene
+- Music archivism and hoarding
+- Other topics I haven't decided on yet :)
 
 You can find a more comprehensive bio [here](https://sommlid.rocks/about/).
 
