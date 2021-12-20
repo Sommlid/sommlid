@@ -3,9 +3,9 @@ title: Home
 description: "The landing page for my music blog."
 ---
 <img
-  id="foxy"
+  id="o6"
   src="/images/o6.jpg"
-  alt="A foxy face">
+  alt="o6">
 
 ## Welcome, friend
 
